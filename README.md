@@ -6,5 +6,5 @@ The password generated is secure as it is not stored anywhere and is lost foreve
 
 <p align="center">
   <img src="https://github.com/AvadhootJ/Secure-Password-Generator/blob/master/PassGenScrnSht.PNG" width="350"/>
-  <img src="https://github.com/AvadhootJ/Secure-Password-Generator/blob/master/PassGenScrnSht.PNG" width="350"/>
+  <img src="https://github.com/AvadhootJ/Secure-Password-Generator/blob/master/PassGenPasswrdScrnSht.PNG" width="350"/>
 </p>
